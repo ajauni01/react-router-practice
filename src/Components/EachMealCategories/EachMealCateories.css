@@ -1,0 +1,11 @@
+.parent-div {
+  position: relative;
+  height: 600px;
+
+}
+
+.btn-goBack {
+  position: absolute;
+  bottom: 0;
+
+}
